@@ -41,3 +41,7 @@
 	Accept-Encoding
 	Accept-Language
 	Content-Language
+内容协商技术类型
+	服务器驱动协商
+	客户端驱动协商
+	透明协商
